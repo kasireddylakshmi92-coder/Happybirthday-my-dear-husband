@@ -226,7 +226,7 @@ function createHeartBurst() {
 */
 
 const loveDate =
-new Date("2024-01-01");
+new Date("2026-03-26");
 
 const counter =
 document.getElementById("counter");
